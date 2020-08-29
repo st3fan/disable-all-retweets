@@ -1,6 +1,6 @@
 # disable-all-retweets
 
-Small Python script that disables retweets for all your friends.
+Small Python script that disables retweets for all your friends. Also see [stefan.arentz.ca/posts/2020-08-29-disablingallretweets](https://stefan.arentz.ca/posts/2020-08-29-disablingallretweets/) for some more context.
 
 ```
 $ python -m venv env
